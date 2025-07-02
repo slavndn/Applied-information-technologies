@@ -1,4 +1,6 @@
-<img width="714" alt="Снимок экрана 2025-07-02 в 21 28 22" src="https://github.com/user-attachments/assets/c9ad85a6-18cf-4f3c-9219-6ff6db9a1a45" /># Applied-information-technologies | Славный Даниил Михайлович ИВТ-1.2
+# Applied-information-technologies | Славный Даниил Михайлович ИВТ-1.2
+
+<img width="714" alt="Снимок экрана 2025-07-02 в 21 28 22" src="https://github.com/user-attachments/assets/c9ad85a6-18cf-4f3c-9219-6ff6db9a1a45" />
 
 1. Создаем конфигурационный файл
 
