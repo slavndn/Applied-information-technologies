@@ -15,6 +15,3 @@
 3. Вижу, что сертификат есть и подписан Let's Encrypt
 
 <img width="714" alt="Снимок экрана 2025-07-02 в 21 28 22" src="https://github.com/user-attachments/assets/b76bd787-86fd-4b2c-8d6c-39a458087f54" />
-
-
-<img width="257" alt="Снимок экрана 2025-07-02 в 21 28 32" src="https://github.com/user-attachments/assets/efd4cd9a-575e-4a5a-b32c-782fe23f2027" />
